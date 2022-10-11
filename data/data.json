@@ -1,34 +1,32 @@
 [
-    {
-        "image": "https://picsum.photos/id/11/10/6",
+    {   
+        "id": 1,
+        "image": "https://tailwindcss.com/img/card-top.jpg",
         "title": "The Coldest Sunset",
         "desciption": "I wanna test this dksdh"
     },
-    {
-        "image": "https://picsum.photos/id/11/10/6",
+    {   
+        "id": 2,
+        "image": "https://tailwindcss.com/img/card-top.jpg",
         "title": "The Coldest Sunset",
         "desciption": "I wanna test this dksdh"
     },
-    {
-        "image": "https://picsum.photos/id/11/10/6",
+    {   
+        "id": 3,
+        "image": "https://tailwindcss.com/img/card-top.jpg",
         "title": "The Coldest Sunset",
         "desciption": "I wanna test this dksdh"
     },
-    {
-        "image": "https://picsum.photos/id/11/10/6",
+    {   
+        "id": 4,
+        "image": "https://tailwindcss.com/img/card-top.jpg",
         "title": "The Coldest Sunset",
         "desciption": "I wanna test this dksdh"
     },
-    {
-        "image": "https://picsum.photos/id/11/10/6",
+    {   
+        "id": 5,
+        "image": "https://tailwindcss.com/img/card-top.jpg",
         "title": "The Coldest Sunset",
         "desciption": "I wanna test this dksdh"
-    },
-    {
-        "image": "https://picsum.photos/id/11/10/6",
-        "title": "The Coldest Sunset",
-        "desciption": "I wanna test this dksdh"
-    }
-    
-    
+    }  
 ]
